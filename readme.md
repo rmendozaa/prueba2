@@ -13,7 +13,7 @@ _Texto en italica_
 
 __Texto en negrita__
 
-[Esto es un link] (https://github.com/rubenmendozaa)
+[Esto es un link](https://github.com/rubenmendozaa)
 
 ```javascript
 console.log("Hola mundo desde javascript");
